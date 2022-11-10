@@ -4,7 +4,7 @@
 
 ## If You want to run my code first you have to clone my repo to your compiler after that :
 ## Step: 01
-### npm instal
+### npm install
 ## Step: 02
 ### cd backend (for go to backend file)
 ## Step: 03
