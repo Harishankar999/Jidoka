@@ -1,0 +1,33 @@
+.nav {
+  border: 1px solid;
+  background: linear-gradient(to right, #2596ce 0%, #eb2020 100%);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+.contact {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  text-align: left;
+  border: 1px solid ;
+  margin-top: 10px;
+}
+.image {
+  height: 70px;
+  border-radius: 50%;
+  /* border: 1px solid teal; */
+}
+.text{
+  margin-left: 60px;
+}
+
+@media all and (min-width: 481px) and (max-width: 1440px) {
+  .contact{
+    width: 40%;
+  }
+}
