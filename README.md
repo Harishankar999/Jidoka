@@ -1,4 +1,7 @@
 # Jidoka
+## Glance of my website
+![This is an image](https://github.com/Harishankar999/Infinite_Scroll/blob/master/GIF-221106_112045.gif?raw=true)
+
 
 ## Due to less problem statement i was not able to do the all part. I tried my level best to solve this problem.
 
